@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="bB3QWATe3556FK7gHJn3">
-    <mxGraphModel dx="4875" dy="4633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="6625" dy="5898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,7 +184,7 @@
           <mxGeometry x="860" y="-590" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1V8vBT3TKDOwcPNvYxsc-86" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 1: Project Setup &amp;amp; Initial Features&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 2: Room Reservation Functionality&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 3:&amp;nbsp;&lt;/font&gt;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;User Interface &amp;amp; Usability Enhancements&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Sprint 4:&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Advanced Features &amp;amp; Admin Panel&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 5: Testing &amp;amp; Deployment&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 6: Post-Launch Features &amp;amp; Support&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="2210" y="-620" width="680" height="360" as="geometry" />
+          <mxGeometry x="1980" y="-565" width="680" height="360" as="geometry" />
         </mxCell>
         <mxCell id="1V8vBT3TKDOwcPNvYxsc-87" value="" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="-450" width="120" height="60" as="geometry" />
@@ -313,7 +313,7 @@
           <mxGeometry x="3360" y="-760" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpmA_eBGxzq3z3bj23mm-38" value="Sprint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="3080" y="-750" width="150" height="30" as="geometry" />
+          <mxGeometry x="3083.75" y="-760" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

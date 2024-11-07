@@ -1,31 +1,31 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="bB3QWATe3556FK7gHJn3">
-    <mxGraphModel dx="5500" dy="5084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="4875" dy="4633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-2">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-16">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-70">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-80">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-1" target="1V8vBT3TKDOwcPNvYxsc-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-1" value="Create an application that enables clients to reserve meeting rooms, providing options for pricing and additional services." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-1" value="Create an application that enables clients to reserve meeting rooms, providing options for pricing and additional services." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="580" y="-10" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-4">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-6">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-8">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="390" />
@@ -33,161 +33,287 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-12">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-14">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-10">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-2" target="1V8vBT3TKDOwcPNvYxsc-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-2" value="1. Functions" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-2" value="1. Functions" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-4" target="1V8vBT3TKDOwcPNvYxsc-18">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-4" target="1V8vBT3TKDOwcPNvYxsc-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-4" value="1. Store user data and verify eligibility for maing reservation." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-4" value="1. Store user data and verify eligibility for maing reservation." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-150" y="435" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-6" target="1V8vBT3TKDOwcPNvYxsc-20">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-6" target="1V8vBT3TKDOwcPNvYxsc-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-6" value="2. Collect user information to process the meeting room reservation." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;align=center;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-6" value="2. Collect user information to process the meeting room reservation." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="155" y="435" width="140" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-8" target="1V8vBT3TKDOwcPNvYxsc-22">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-8" target="1V8vBT3TKDOwcPNvYxsc-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-8" value="3. Verify the availability of meeting rooms." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;align=center;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-8" value="3. Verify the availability of meeting rooms." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="450" y="435" width="140" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-10" target="1V8vBT3TKDOwcPNvYxsc-25">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-10" target="1V8vBT3TKDOwcPNvYxsc-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-10" value="4. Confirm The selection and create reminders." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-10" value="4. Confirm The selection and create reminders." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="860" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-12" target="1V8vBT3TKDOwcPNvYxsc-27">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-12" target="1V8vBT3TKDOwcPNvYxsc-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-12" value="5. Make the meeting rooms availlable after users finish their meetings." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-12" value="5. Make the meeting rooms availlable after users finish their meetings." style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1210" y="425" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-14" target="1V8vBT3TKDOwcPNvYxsc-29">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-14" target="1V8vBT3TKDOwcPNvYxsc-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-14" value="6. Take feedbacks" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-14" value="6. Take feedbacks" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1575" y="435" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-16" target="1V8vBT3TKDOwcPNvYxsc-39">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-16" target="1V8vBT3TKDOwcPNvYxsc-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-16" target="1V8vBT3TKDOwcPNvYxsc-41">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-16" target="1V8vBT3TKDOwcPNvYxsc-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-16" target="1V8vBT3TKDOwcPNvYxsc-35">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-16" target="1V8vBT3TKDOwcPNvYxsc-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-16" value="Design" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-16" value="Design" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2405" y="-10" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-18" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Register&amp;nbsp;&lt;/li&gt;&lt;li&gt;Select the purpose of the meeting (bussines, study, discussion ...)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-18" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Register&amp;nbsp;&lt;/li&gt;&lt;li&gt;Select the purpose of the meeting (bussines, study, discussion ...)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-207.5" y="643.75" width="245" height="113.75" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-20" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Define the price.&lt;/li&gt;&lt;li&gt;Define the place.&lt;/li&gt;&lt;li&gt;Define the date.&lt;/li&gt;&lt;li&gt;Define the capacity.&lt;/li&gt;&lt;li&gt;Define other things to add it.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-20" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Define the price.&lt;/li&gt;&lt;li&gt;Define the place.&lt;/li&gt;&lt;li&gt;Define the date.&lt;/li&gt;&lt;li&gt;Define the capacity.&lt;/li&gt;&lt;li&gt;Define other things to add it.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="102.5" y="643.75" width="245" height="113.75" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-22" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Analyze the entered data to ensure it meets the requirements for the client&#39;s reservation.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-22" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Analyze the entered data to ensure it meets the requirements for the client&#39;s reservation.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="648.75" width="245" height="103.75" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-25" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Confirm the client&#39;s payment and meeting room selection&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Set a reminder based on their chosen reservation time.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-25" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Confirm the client&#39;s payment and meeting room selection&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Set a reminder based on their chosen reservation time.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="795" y="640.63" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-27" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Make an algorithm to vacate the meeting rooms for other client after clients benefit from it.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-27" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Make an algorithm to vacate the meeting rooms for other client after clients benefit from it.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1160" y="640.63" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-29" value="&lt;ul&gt;&lt;li&gt;Take feedback from clients to improve the use of the meeting rooms and the appication.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-29" value="&lt;ul&gt;&lt;li&gt;Take feedback from clients to improve the use of the meeting rooms and the appication.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1540" y="646.25" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-35" target="1V8vBT3TKDOwcPNvYxsc-51">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-35" target="1V8vBT3TKDOwcPNvYxsc-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-35" value="Register Interface" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-35" value="Register Interface" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-39" target="1V8vBT3TKDOwcPNvYxsc-53">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-39" target="1V8vBT3TKDOwcPNvYxsc-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-39" value="Login Interface" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-39" value="Login Interface" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2420" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-41" target="1V8vBT3TKDOwcPNvYxsc-55">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-41" target="1V8vBT3TKDOwcPNvYxsc-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-41" value="Dashboard" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-41" value="Dashboard" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2835" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-51" value="&lt;ul&gt;&lt;li&gt;Simple, Clean Layout&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-51" value="&lt;ul&gt;&lt;li&gt;Simple, Clean Layout&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="2055" y="505" width="170" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-53" value="&lt;ul&gt;&lt;li&gt;Simple, Clean Layout.&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;Minimalist Design, Clear instruction, search bar&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-53" value="&lt;ul&gt;&lt;li&gt;Simple, Clean Layout.&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;Minimalist Design, Clear instruction, search bar&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2355" y="550" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-55" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;A clean dashboard with an overview of room availability, upcoming reservations, and quick access to booking.&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Date picker, search functionality, and a filter option for room capacity, amenities, and price range.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Booking confirmation page.&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;User Profile and History.&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Calendar and Notfication for reminders.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Payment and Invoice Section.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Admin Panel for Room Management.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Service Add-Ons.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-55" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;A clean dashboard with an overview of room availability, upcoming reservations, and quick access to booking.&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Date picker, search functionality, and a filter option for room capacity, amenities, and price range.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Booking confirmation page.&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;User Profile and History.&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Calendar and Notfication for reminders.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Payment and Invoice Section.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Admin Panel for Room Management.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Service Add-Ons.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2706.25" y="480" width="377.5" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-68" value="Offer customizable options for room selection, services, and booking preferences to enhance the user experience" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-68" value="Offer customizable options for room selection, services, and booking preferences to enhance the user experience" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="251.25" width="220" height="88.75" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-68">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-72">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-74">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-76">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-78">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-70" target="1V8vBT3TKDOwcPNvYxsc-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-70" value="Customization" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-70" value="Customization" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-690" y="-5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-72" value="Ensure clients&#39; privacy by securely handling their personal data and providing a confidential booking process." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-72" value="Ensure clients&#39; privacy by securely handling their personal data and providing a confidential booking process." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-745" y="255.63" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-74" value="Allow clients to customize their reservation with additional design options or opt for a virtual meeting if needed." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-74" value="Allow clients to customize their reservation with additional design options or opt for a virtual meeting if needed." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-1270" y="-17.5" width="270" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-76" value="Allow users to choose or request specific seating arrangements (e.g., boardroom, theater style, U-shape)." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-76" value="Allow users to choose or request specific seating arrangements (e.g., boardroom, theater style, U-shape)." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-1045" y="-270" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-78" value="Let clients specify special guest needs, such as accessibility accommodations, parking preferences, or guest passes for building access." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-78" value="Let clients specify special guest needs, such as accessibility accommodations, parking preferences, or guest passes for building access." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-755" y="-270" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-80" target="1V8vBT3TKDOwcPNvYxsc-84">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-80" target="1V8vBT3TKDOwcPNvYxsc-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-80" value="Location" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-80" value="Location" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1V8vBT3TKDOwcPNvYxsc-84" target="1V8vBT3TKDOwcPNvYxsc-87">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1V8vBT3TKDOwcPNvYxsc-84" target="1V8vBT3TKDOwcPNvYxsc-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-84" value="Depending on the clients preferences." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-84" value="Depending on the clients preferences." style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="-590" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-86" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 1: Project Setup &amp;amp; Initial Features&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 2: Room Reservation Functionality&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 3: Advanced Features &amp;amp; Admin Panel&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 4: User Interface &amp;amp; Usability Enhancements&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 5: Testing &amp;amp; Deployment&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 6: Post-Launch Features &amp;amp; Support&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-86" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 1: Project Setup &amp;amp; Initial Features&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 2: Room Reservation Functionality&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 3:&amp;nbsp;&lt;/font&gt;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;User Interface &amp;amp; Usability Enhancements&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Sprint 4:&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Advanced Features &amp;amp; Admin Panel&lt;/strong&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 5: Testing &amp;amp; Deployment&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Sprint 6: Post-Launch Features &amp;amp; Support&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2210" y="-620" width="680" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="1V8vBT3TKDOwcPNvYxsc-87" value="" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="1V8vBT3TKDOwcPNvYxsc-87" value="" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpmA_eBGxzq3z3bj23mm-6" target="mpmA_eBGxzq3z3bj23mm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="-690" width="790" height="485" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-6">
+          <mxGeometry width="790" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-8" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;Project Setup &amp;amp; Initial Features&lt;/strong&gt;&lt;/h3&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-7">
+          <mxGeometry width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-9" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot; face=&quot;Times New Roman&quot;&gt;1 Week&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=36;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-7">
+          <mxGeometry x="263" width="264" height="161" as="geometry">
+            <mxRectangle width="264" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-10" value="AI tools like GitHub Copilot can assist in generating boilerplate code and suggesting project structure, speeding up setup." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-7">
+          <mxGeometry x="527" width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-6">
+          <mxGeometry y="161" width="790" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-12" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;Room Reservation Functionality&lt;/strong&gt;&lt;/h3&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-11">
+          <mxGeometry width="263" height="163" as="geometry">
+            <mxRectangle width="263" height="163" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-13" value="2 week" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=36;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-11">
+          <mxGeometry x="263" width="264" height="163" as="geometry">
+            <mxRectangle width="264" height="163" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-14" value="AI can predict room booking patterns and recommend optimal reservation times based on historical data and user behavior." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-11">
+          <mxGeometry x="527" width="263" height="163" as="geometry">
+            <mxRectangle width="263" height="163" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-6">
+          <mxGeometry y="324" width="790" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-16" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;User Interface &amp;amp; Usability Enhancements&lt;/strong&gt;&lt;/h3&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-15">
+          <mxGeometry width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-18" value="1.5 week" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=36;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-15">
+          <mxGeometry x="263" width="264" height="161" as="geometry">
+            <mxRectangle width="264" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-17" value="AI can analyze user interactions and suggest UI/UX improvements for better usability, personalizing the interface based on user preferences." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-15">
+          <mxGeometry x="527" width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-19" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3020" y="-205" width="790" height="485" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-19">
+          <mxGeometry width="790" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-21" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Advanced Features &amp;amp; Admin Panel&lt;/strong&gt;&lt;/h3&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-20">
+          <mxGeometry width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-22" value="2 weeks" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=36;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-20">
+          <mxGeometry x="263" width="264" height="161" as="geometry">
+            <mxRectangle width="264" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-23" value="AI can be used to automate room pricing based on demand patterns and generate dynamic pricing models for users." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-20">
+          <mxGeometry x="527" width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-24" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-19">
+          <mxGeometry y="161" width="790" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-25" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;Testing &amp;amp; Deployment&lt;/h3&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-24">
+          <mxGeometry width="263" height="163" as="geometry">
+            <mxRectangle width="263" height="163" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-26" value="1.5 week" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=36;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-24">
+          <mxGeometry x="263" width="264" height="163" as="geometry">
+            <mxRectangle width="264" height="163" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-27" value="AI-driven testing tools can automatically detect bugs, perform regression testing, and identify performance bottlenecks." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-24">
+          <mxGeometry x="527" width="263" height="163" as="geometry">
+            <mxRectangle width="263" height="163" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-19">
+          <mxGeometry y="324" width="790" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-29" value="&lt;h3 style=&quot;font-size: 25px;&quot;&gt;&lt;strong&gt;Post-Launch Features &amp;amp; Support&lt;/strong&gt;&lt;/h3&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=center;" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-28">
+          <mxGeometry width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-30" value="1.5 week" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=36;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-28">
+          <mxGeometry x="263" width="264" height="161" as="geometry">
+            <mxRectangle width="264" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-31" value="AI can monitor user feedback, perform sentiment analysis, and provide insights to improve user experience and support." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="mpmA_eBGxzq3z3bj23mm-28">
+          <mxGeometry x="527" width="263" height="161" as="geometry">
+            <mxRectangle width="263" height="161" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-33" value="AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3600" y="-760" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-34" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 40px;&quot;&gt;Estimation&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="-760" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpmA_eBGxzq3z3bj23mm-38" value="Sprint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="-750" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
